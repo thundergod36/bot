@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orvythmc.sadhost.com",
-    "port": 27778,
-    "version": "1.20.1",
+    "ip": "dragonmc.tkmc.net",
+    "port": "50740",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
